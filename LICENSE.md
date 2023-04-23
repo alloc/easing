@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2023 Alec Larson
 Copyright (c) 2018 Endel Dreyer
 Copyright (c) 2014 Matt DesLauriers
 
