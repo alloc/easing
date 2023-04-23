@@ -1,6 +1,6 @@
-# @gamestdio/easing
+# @alloc/easing
 
-This is a grab-bag of [Robert Penner's easing equations](http://www.robertpenner.com/easing/), most of the code from [glsl-easings](https://www.npmjs.org/package/glsl-easings). Pull requests for optimizations are welcome.
+This is an ESM-only fork of the `@gamestdio/easing` package. It's a grab-bag of [Robert Penner's easing equations](http://www.robertpenner.com/easing/), most of the code from [glsl-easings](https://www.npmjs.org/package/glsl-easings). Pull requests for optimizations are welcome.
 
 ## Usage
 
